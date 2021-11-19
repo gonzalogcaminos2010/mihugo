@@ -1,0 +1,8 @@
+[submodule "AxiesInfinityBlog"]
+	path = AxiesInfinityBlog
+	url = https://github.com/gonzalogcaminos2010/AxiesInfinityBlog.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/gonzalogcaminos2010/AxiesInfinityBlog.git
+	branch = main

@@ -1,0 +1,7 @@
+baseURL = 'http://localhost/'
+languageCode = 'es-es'
+title = 'BLOG'
+theme = 'anubis'
+publishDir = "docs"
+
+
