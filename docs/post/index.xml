@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BLOG</title>
+    <link>https://gonzalogcaminos2010.github.io/mihugo/post/</link>
+    <description>BLOG (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 18 Nov 2021 23:17:30 -0300</lastBuildDate>
+    
+    <atom:link href="https://gonzalogcaminos2010.github.io/mihugo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crear Blog Github Pages</title>
+      <link>https://gonzalogcaminos2010.github.io/mihugo/post/crear-blog-github-pages/</link>
+      <pubDate>Thu, 18 Nov 2021 23:17:30 -0300</pubDate>
+      
+      <guid>https://gonzalogcaminos2010.github.io/mihugo/post/crear-blog-github-pages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
