@@ -4,4 +4,26 @@ title = 'BLOG'
 theme = 'anubis'
 publishDir = "docs"
 
+[menu]
+
+    [[menu.nav]]
+    name = "Summary"
+    URL = "services"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Methods"
+    URL = "blog"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Français"
+    url = "https://example.com/" #this is the link I want to add
+    weight = 5
+
 
