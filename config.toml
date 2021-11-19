@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://gonzalogcaminos2010.github.io/mihugo/'
 languageCode = 'es-es'
 title = 'BLOG'
 theme = 'anubis'
